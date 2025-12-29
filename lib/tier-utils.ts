@@ -21,6 +21,9 @@ import {
   type PlanName,
 } from "./tier-config";
 
+// Re-export types for convenience
+export type { FeatureName, PlanName, PlanLimits };
+
 export interface UploadValidationResult {
   allowed: boolean;
   reason?: "file_size" | "duration" | "project_limit";
