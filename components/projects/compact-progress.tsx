@@ -23,23 +23,27 @@ export function CompactProgress({
   const [progress, setProgress] = useState(0);
 
   const isTranscribing = jobStatus?.transcription === "running";
-
-  // Count completed content generation steps (all 6 outputs)
-  const contentSteps = [
-    jobStatus?.keyMoments,
-    jobStatus?.summary,
-    jobStatus?.social,
-    jobStatus?.titles,
-    jobStatus?.hashtags,
-    jobStatus?.youtubeTimestamps,
-  ];
-  const completedSteps = contentSteps.filter((s) => s === "completed").length;
-  const totalSteps = contentSteps.length;
+  const isGenerating = jobStatus?.contentGeneration === "running";
+  const isContentComplete = jobStatus?.contentGeneration === "completed";
+  const isTranscriptComplete = jobStatus?.transcription === "completed";
 
   useEffect(() => {
+    // If content generation is complete, show 100%
+    if (isContentComplete) {
+      setProgress(100);
+      return;
+    }
+    
+    // If transcription is complete but content is running, show 50-99%
+    if (isTranscriptComplete && isGenerating) {
+      setProgress(75);
+      return;
+    }
+    
+    // If not transcribing, calculate based on status
     if (!isTranscribing) {
-      const stepProgress = (completedSteps / totalSteps) * 100;
-      setProgress(stepProgress);
+      const baseProgress = isTranscriptComplete ? 50 : 0;
+      setProgress(baseProgress);
       return;
     }
 
@@ -54,7 +58,7 @@ export function CompactProgress({
     updateProgress();
     const interval = setInterval(updateProgress, PROGRESS_UPDATE_INTERVAL_MS);
     return () => clearInterval(interval);
-  }, [isTranscribing, createdAt, fileDuration, completedSteps, totalSteps]);
+  }, [isTranscribing, isGenerating, isContentComplete, isTranscriptComplete, createdAt, fileDuration]);
 
   const statusText = isTranscribing
     ? "🎙️ Transcribing..."
