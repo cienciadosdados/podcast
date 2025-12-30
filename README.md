@@ -1,6 +1,6 @@
-# AI Podcast SaaS
+# AI Podcast SaaS - Semana 4 do SaaS AI
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Ciência dos Dados](https://img.shields.io/badge/Ci%C3%AAncia%20dos%20Dados-Projeto%20Semana%204-blue)](https://cienciadosdados.com)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![Convex](https://img.shields.io/badge/Convex-Database-orange)
 ![Clerk](https://img.shields.io/badge/Clerk-Auth-blue)
@@ -8,295 +8,269 @@
 ![AssemblyAI](https://img.shields.io/badge/AssemblyAI-Transcription-green)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-teal)
 
-## Stop Spending Hours on Extracting Information from Podcasts - Let AI Do It!
+> **🎯 Projeto da Semana 4** do programa **SaaS AI** da [Ciência dos Dados](https://cienciadosdados.com)
 
-Upload your podcast once. Get platform-optimized content for 6 social networks automatically.
+## Pare de Gastar Horas Extraindo Informações de Podcasts - Deixe a IA Fazer!
 
-
-
-## 👇 IMPORTANT: Use Our Affiliate Links when signing up
-
-**⚠️ Please use our affiliate links below to set up your accounts.**
-
-This is how we keep this content FREE and continue building open-source projects for the community. It costs you nothing extra, but it makes a huge difference for us!
-
-1. **[Clerk](https://go.clerk.com/sonny)** - Authentication & Billing (Free tier available)
-2. **[Inngest](https://innge.st/sonny-2)** - Workflow Orchestration (Free for developers)
-3. **[CodeRabbit](https://coderabbit.link/sonny-nov)** - AI Code Reviews (Optional, for development)
-
-🙏 **Thank you for supporting the channel by using our links!**
+Faça upload do seu podcast uma vez. Receba conteúdo otimizado para 6 redes sociais automaticamente.
 
 ---
 
-### 📌 Who This Is For
+### 📌 Para Quem É Este Projeto
 
-**Podcast creators drowning in post-production work**
+**Criadores de podcast afogados em trabalho de pós-produção**
 
-You've spent hours recording, editing, and producing your podcast. Now you need to:
-- Write social media posts for 6 different platforms
-- Create catchy titles and descriptions
-- Generate timestamps for YouTube
-- Find the best moments for clips
-- Write captions and hashtags
+Você passou horas gravando, editando e produzindo seu podcast. Agora precisa:
+- Escrever posts para 6 plataformas diferentes
+- Criar títulos e descrições atraentes
+- Gerar timestamps para YouTube
+- Encontrar os melhores momentos para clips
+- Escrever legendas e hashtags
 
-**This app does all of that in seconds.**
+**Este app faz tudo isso em segundos.**
 
-### 🎯 Key Differentiator
+### 🎯 Diferencial Principal
 
-**End-to-end AI workflow from upload to multi-platform content**
+**Workflow completo de IA do upload ao conteúdo multi-plataforma**
 
-Not just transcription. Not just summaries. A complete content distribution system powered by AI that understands your podcast and creates tailored content for every platform.
+Não é apenas transcrição. Não é apenas resumos. É um sistema completo de distribuição de conteúdo alimentado por IA que entende seu podcast e cria conteúdo personalizado para cada plataforma.
 
-### ⚡ Technical Highlight
+### ⚡ Destaque Técnico
 
-**Parallel AI processing with Inngest (5x faster than sequential)**
+**Processamento paralelo de IA com Inngest (5x mais rápido que sequencial)**
 
-Instead of waiting 5 minutes for AI tasks to run one-by-one, we run 6 AI generation jobs simultaneously. Your content is ready in ~90 seconds total.
-
----
-
-## 🤔 What Is This App?
-
-Think of it as **your AI newsroom for podcast content**.
-
-Here's the simple explanation:
-
-1. **You upload** one audio file (your podcast episode)
-2. **AI analyzes** your content, understanding speakers, topics, and key moments
-3. **You get** a complete content distribution package:
-   - Summary with key insights
-   - Social media posts tailored for Twitter, LinkedIn, Instagram, TikTok, YouTube, and Facebook
-   - Title suggestions (short, long, SEO-optimized)
-   - Platform-specific hashtags
-   - YouTube chapter timestamps
-   - Key moments for viral clips
-   - Full transcript with speaker identification
-
-**The workflow:** Record → Upload → AI Analyzes → Get Distribution Content
-
-No manual writing. No copying and pasting between platforms. No guessing what hashtags work.
+Em vez de esperar 5 minutos para tarefas de IA rodarem uma por uma, executamos 6 jobs de geração simultaneamente. Seu conteúdo fica pronto em ~90 segundos.
 
 ---
 
-## 🚀 Before We Dive In - Join the PAPAFAM!
+## 🤔 O Que É Este App?
 
-**Want to build apps like this from scratch?**
+Pense nele como **sua redação de IA para conteúdo de podcast**.
 
-If you're looking at this project thinking "I want to learn how to build this," I've got you covered.
+Explicação simples:
 
-### 💡 What You'll Master
+1. **Você faz upload** de um arquivo de áudio (seu episódio de podcast)
+2. **A IA analisa** seu conteúdo, entendendo speakers, tópicos e momentos-chave
+3. **Você recebe** um pacote completo de distribuição:
+   - Resumo com insights principais
+   - Posts para Twitter, LinkedIn, Instagram, TikTok, YouTube e Facebook
+   - Sugestões de títulos (curtos, longos, otimizados para SEO)
+   - Hashtags específicas por plataforma
+   - Timestamps de capítulos para YouTube
+   - Momentos-chave para clips virais
+   - Transcrição completa com identificação de speakers
 
-- **Next.js 15** - Server actions, app router, API routes, and streaming
-- **Real-time Databases** - Convex for instant UI updates without polling
-- **AI Integrations** - OpenAI, AssemblyAI, and prompt engineering
-- **Background Jobs** - Inngest for durable, observable workflows
-- **Modern Auth & Billing** - Clerk with subscription management
-- **Production Deployment** - Vercel, environment variables, and monitoring
+**O workflow:** Gravar → Upload → IA Analisa → Receber Conteúdo
 
-### 🎓 PAPAFAM Community Benefits
+Sem escrita manual. Sem copiar e colar entre plataformas. Sem adivinhar quais hashtags funcionam.
 
-- **Private Discord** - Direct access to me and other builders
-- **Code Reviews** - Get feedback on your projects
-- **Weekly Q&A Sessions** - Ask anything about development
-- **Job Board** - Exclusive opportunities shared with the community
+---
 
-### 🎯 Real Results
+## 🎓 Sobre o Programa SaaS AI
 
-Students have gone from beginner to shipping production apps in weeks. Learn the same modern stack used by top startups.
+Este projeto faz parte do programa **SaaS AI** da [Ciência dos Dados](https://cienciadosdados.com), onde construímos aplicações SaaS completas utilizando as tecnologias mais modernas do mercado.
 
-### 📦 What's Included
+### 💡 O Que Você Aprende
 
-- **50+ hours of video tutorials** - Step-by-step project builds
-- **Starter templates** - Clone and customize for your projects
-- **Lifetime updates** - New courses and content added regularly
-- **Certificate of completion** - Show employers your skills
+- **Next.js 16** - Server actions, app router, API routes e streaming
+- **Bancos Real-time** - Convex para atualizações instantâneas sem polling
+- **Integrações de IA** - OpenAI, AssemblyAI e prompt engineering
+- **Background Jobs** - Inngest para workflows duráveis e observáveis
+- **Auth & Billing Modernos** - Clerk com gestão de assinaturas
+- **Deploy em Produção** - Vercel, variáveis de ambiente e monitoramento
 
-### 👉 [Join the PAPAFAM Course](https://www.papareact.com/course)
+### 📅 Cronograma do Programa
+
+- **Semana 1-3**: Fundamentos e projetos iniciais
+- **Semana 4**: AI Podcast SaaS (este projeto)
+- **Semana 5+**: Projetos avançados e EDUCAR SaaS
+
+### 👉 [Saiba mais em cienciadosdados.com](https://cienciadosdados.com)
 
 ---
 
 ## ✨ Features
 
-### For Podcast Creators
+### Para Criadores de Podcast
 
-- **📝 AI Summary** - Comprehensive overview with bullets, key insights, and TLDR
-- **📱 Social Posts** - Platform-optimized copy for 6 networks:
-  - **Twitter** - 280 chars, punchy and engaging
-  - **LinkedIn** - Professional tone, thought leadership
-  - **Instagram** - Visual hooks with engagement questions
+- **📝 Resumo com IA** - Visão geral completa com bullets, insights principais e TL;DR
+- **📱 Posts para Redes Sociais** - Conteúdo otimizado para 6 plataformas:
+  - **Twitter** - 280 caracteres, direto e engajador
+  - **LinkedIn** - Tom profissional, thought leadership
+  - **Instagram** - Ganchos visuais com perguntas de engajamento
   - **TikTok** - Casual, trend-aware, Gen-Z friendly
-  - **YouTube** - Description with CTAs and timestamps
-  - **Facebook** - Community-focused conversation starters
-- **🎯 Title Suggestions** - 4 different styles for every use case:
-  - YouTube Short (catchy, under 60 chars)
-  - YouTube Long (descriptive, SEO-friendly)
-  - Podcast Titles (episode-focused)
-  - SEO Keywords (discoverability)
-- **#️⃣ Hashtags** - Platform-specific tags optimized for reach
-- **⏱️ YouTube Timestamps** - Auto-generated chapter markers for better navigation
-- **🎤 Key Moments** - AI identifies viral clip opportunities with timestamps
-- **👥 Speaker Diarization** - "Who said what" with speaker labels and confidence scores
+  - **YouTube** - Descrição com CTAs e timestamps
+  - **Facebook** - Focado em comunidade, iniciadores de conversa
+- **🎯 Sugestões de Títulos** - 4 estilos diferentes para cada uso:
+  - YouTube Curto (chamativo, menos de 60 chars)
+  - YouTube Longo (descritivo, SEO-friendly)
+  - Títulos de Podcast (focado no episódio)
+  - Keywords SEO (descobribilidade)
+- **#️⃣ Hashtags** - Tags específicas por plataforma otimizadas para alcance
+- **⏱️ Timestamps YouTube** - Marcadores de capítulo gerados automaticamente
+- **🎤 Momentos-Chave** - IA identifica oportunidades de clips virais com timestamps
+- **👥 Diarização de Speakers** - "Quem disse o quê" com labels e scores de confiança
 
-### Technical Features (The Smart Stuff)
+### Features Técnicas
 
-- **⚡ Parallel AI Processing** - 6 AI jobs run simultaneously (60s total vs 300s sequential)
-- **🔄 Real-time Updates** - See progress live with Convex subscriptions (no polling)
-- **🛡️ Durable Workflows** - Inngest automatically retries failed steps (no lost work)
-- **📊 Plan-based Feature Gating** - Features unlock based on subscription tier (Free/Pro/Ultra)
-- **🎨 Dark Mode Support** - Beautiful UI that adapts to your preference
-- **📦 Type-safe Throughout** - End-to-end TypeScript with Zod validation
-- **🔐 Secure by Default** - Clerk authentication with row-level security
+- **⚡ Processamento Paralelo** - 6 jobs de IA rodam simultaneamente (60s total vs 300s sequencial)
+- **🔄 Atualizações Real-time** - Veja progresso ao vivo com Convex subscriptions (sem polling)
+- **🛡️ Workflows Duráveis** - Inngest faz retry automático de steps falhos (sem perda de trabalho)
+- **📊 Feature Gating por Plano** - Features desbloqueiam baseado no tier (Free/Pro/Ultra)
+- **🎨 Suporte Dark Mode** - UI bonita que adapta à sua preferência
+- **📦 Type-safe End-to-End** - TypeScript completo com validação Zod
+- **🔐 Seguro por Padrão** - Autenticação Clerk com segurança row-level
 
 ---
 
-## 💰 Pricing Tiers
+## 💰 Planos de Preços
 
-| Feature | FREE | PRO ($29/mo) | ULTRA ($69/mo) |
+| Feature | FREE | PRO ($29/mês) | ULTRA ($69/mês) |
 |---------|:----:|:------------:|:--------------:|
-| **Projects** | 3 lifetime | 30/month | Unlimited |
-| **File Size** | 10 MB | 200 MB | 3 GB |
-| **Max Duration** | 10 min | 2 hours | Unlimited |
-| **AI Summary** | ✓ | ✓ | ✓ |
-| **Social Posts** | ✗ | ✓ | ✓ |
-| **Titles & Hashtags** | ✗ | ✓ | ✓ |
-| **YouTube Timestamps** | ✗ | ✗ | ✓ |
-| **Key Moments** | ✗ | ✗ | ✓ |
-| **Full Transcript** | ✗ | ✗ | ✓ |
-| **Speaker Diarization** | ✗ | ✗ | ✓ |
+| **Projetos** | 3 lifetime | 30/mês | Ilimitado |
+| **Tamanho Arquivo** | 10 MB | 200 MB | 3 GB |
+| **Duração Máxima** | 10 min | 2 horas | Ilimitado |
+| **Resumo IA** | ✓ | ✓ | ✓ |
+| **Posts Sociais** | ✗ | ✓ | ✓ |
+| **Títulos & Hashtags** | ✗ | ✓ | ✓ |
+| **Timestamps YouTube** | ✗ | ✗ | ✓ |
+| **Momentos-Chave** | ✗ | ✗ | ✓ |
+| **Transcrição Completa** | ✗ | ✗ | ✓ |
+| **Diarização de Speakers** | ✗ | ✗ | ✓ |
 
 ---
 
-## 🔧 How It Works
+## 🔧 Como Funciona
 
-### User Flow
+### Fluxo do Usuário
 
 ```mermaid
 flowchart TD
-    A[User Uploads Audio] --> B[File Saved to Vercel Blob]
-    B --> C[Inngest Event Triggered]
-    C --> D[Project Status: Processing]
-    D --> E[AssemblyAI Transcription]
-    E --> F[Parallel AI Content Generation]
-    F --> G[Results Saved to Convex]
-    G --> H[Project Status: Completed]
-    H --> I[User Views Dashboard]
-    I --> J[Real-time Updates via Convex]
+    A[Usuário faz Upload do Áudio] --> B[Arquivo salvo no Vercel Blob]
+    B --> C[Evento Inngest Disparado]
+    C --> D[Status: Processando]
+    D --> E[Transcrição AssemblyAI]
+    E --> F[Geração de Conteúdo IA Paralela]
+    F --> G[Resultados Salvos no Convex]
+    G --> H[Status: Completo]
+    H --> I[Usuário Visualiza Dashboard]
+    I --> J[Atualizações Real-time via Convex]
 ```
 
-**Performance Notes:**
-- Transcription: ~30-60 seconds
-- AI Content Generation (parallel): ~60 seconds
-- **Total Processing Time: ~90-120 seconds**
+**Notas de Performance:**
+- Transcrição: ~30-60 segundos
+- Geração de Conteúdo IA (paralela): ~60 segundos
+- **Tempo Total de Processamento: ~90-120 segundos**
 
 ---
 
-### Parallel AI Processing Architecture
+### Arquitetura de Processamento Paralelo
 
 ```mermaid
 flowchart TD
-    A[AssemblyAI Transcription Complete] --> B{Fan-out to Parallel Jobs}
-    B --> C[Generate Summary]
-    B --> D[Generate Social Posts]
-    B --> E[Generate Titles]
-    B --> F[Generate Hashtags]
-    B --> G[Generate YouTube Timestamps]
-    B --> H[Generate Key Moments]
-    C --> I[Join All Results]
+    A[Transcrição AssemblyAI Completa] --> B{Fan-out para Jobs Paralelos}
+    B --> C[Gerar Resumo]
+    B --> D[Gerar Posts Sociais]
+    B --> E[Gerar Títulos]
+    B --> F[Gerar Hashtags]
+    B --> G[Gerar Timestamps YouTube]
+    B --> H[Gerar Momentos-Chave]
+    C --> I[Juntar Todos Resultados]
     D --> I
     E --> I
     F --> I
     G --> I
     H --> I
-    I --> J[Save to Convex Database]
-    J --> K[UI Updates in Real-time]
+    I --> J[Salvar no Convex Database]
+    J --> K[UI Atualiza em Real-time]
 ```
 
-**Why This Matters:**
-- **Sequential**: 6 jobs × 50s each = ~300 seconds (5 minutes)
-- **Parallel**: All jobs run simultaneously = ~60 seconds
-- **Result**: 5x faster processing
+**Por Que Isso Importa:**
+- **Sequencial**: 6 jobs × 50s cada = ~300 segundos (5 minutos)
+- **Paralelo**: Todos jobs rodam simultaneamente = ~60 segundos
+- **Resultado**: 5x mais rápido
 
 ---
 
-### Data Architecture
+### Arquitetura de Dados
 
 ```mermaid
 flowchart LR
-    A[Client Upload] --> B[Next.js API Route]
+    A[Upload Cliente] --> B[Next.js API Route]
     B --> C[Clerk Auth Check]
     C --> D[Vercel Blob Storage]
-    D --> E[Inngest Event]
-    E --> F[AssemblyAI Transcription]
-    E --> G[OpenAI Content Generation]
+    D --> E[Evento Inngest]
+    E --> F[Transcrição AssemblyAI]
+    E --> G[Geração Conteúdo OpenAI]
     F --> H[Convex Database]
     G --> H
-    H --> I[Real-time Subscription]
-    I --> J[Client Dashboard Update]
+    H --> I[Subscription Real-time]
+    I --> J[Atualização Dashboard]
 ```
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Começando
 
-### Prerequisites
+### Pré-requisitos
 
-Before you begin, make sure you have:
+Antes de começar, certifique-se de ter:
 
-- **Node.js 18+** and **pnpm** installed
-- Accounts created for all services (see "DO THIS Before You Get Started" section above)
-- **Git** for version control
-- A code editor (VS Code recommended)
+- **Node.js 18+** e **pnpm** instalados
+- Contas criadas para todos os serviços (veja seção de Configuração abaixo)
+- **Git** para controle de versão
+- Um editor de código (VS Code recomendado)
 
-### Installation Steps
+### Passos de Instalação
 
-1. **Clone the repository**
+1. **Clone o repositório**
 
 ```bash
-git clone <your-repo-url>
-cd ai-podcast-saas-inngest-coderabbit-clerk
+git clone https://github.com/cienciadosdados/podcast.git
+cd podcast
 ```
 
-2. **Install dependencies**
+2. **Instale as dependências**
 
 ```bash
 pnpm install
 ```
 
-3. **Set up environment variables**
+3. **Configure as variáveis de ambiente**
 
 ```bash
 cp .env.example .env.local
 ```
 
-Then fill in all the required keys in `.env.local` (see Environment Variables section below).
+Preencha todas as chaves necessárias no `.env.local` (veja seção Variáveis de Ambiente abaixo).
 
-4. **Start Convex development database**
+4. **Inicie o banco de dados Convex**
 
 ```bash
 pnpm convex dev
 ```
 
-This will:
-- Create a new Convex project (or connect to existing)
-- Set up your database schema
-- Generate TypeScript types
-- Start watching for changes
+Isso irá:
+- Criar um novo projeto Convex (ou conectar ao existente)
+- Configurar o schema do banco
+- Gerar tipos TypeScript
+- Começar a observar mudanças
 
-5. **Start the development server** (in a new terminal)
+5. **Inicie o servidor de desenvolvimento** (em um novo terminal)
 
 ```bash
 pnpm dev
 ```
 
-6. **Open your browser**
+6. **Abra seu navegador**
 
-Navigate to `http://localhost:3000`
+Navegue para `http://localhost:3000`
 
 ---
 
-### Environment Variables
+### Variáveis de Ambiente
 
-Create a `.env.local` file in the root directory with the following variables:
+Crie um arquivo `.env.local` na raiz do projeto com as seguintes variáveis:
 
 ```bash
 # Convex
@@ -316,29 +290,33 @@ ASSEMBLYAI_API_KEY=...
 
 # OpenAI
 OPENAI_API_KEY=sk-proj-...
+
+# Inngest
+INNGEST_EVENT_KEY=...
+INNGEST_SIGNING_KEY=signkey-prod-...
 ```
 
-**Security Notes:**
+**Notas de Segurança:**
 
-- ⚠️ **NEVER commit `.env.local`** to version control
-- ✅ Use `.env.example` as a template (safe to commit)
-- 🔑 Variables prefixed with `NEXT_PUBLIC_` are exposed to the browser
-- 🔒 Other variables are server-side only
+- ⚠️ **NUNCA faça commit do `.env.local`** no controle de versão
+- ✅ Use `.env.example` como template (seguro para commit)
+- 🔑 Variáveis com prefixo `NEXT_PUBLIC_` são expostas ao browser
+- 🔒 Outras variáveis são apenas server-side
 
 ---
 
-### Service Configuration
+### Configuração dos Serviços
 
-#### 1. Clerk Setup (Authentication & Billing)
+#### 1. Clerk (Autenticação & Billing)
 
-1. Go to [Clerk Dashboard](https://go.clerk.com/sonny)
-2. Create a new application
-3. Copy your publishable and secret keys to `.env.local`
-4. **Enable Billing**:
-   - Go to "Billing" → "Subscriptions"
-   - Create three plans: `free`, `pro`, `ultra`
-   - Set prices: Free ($0), Pro ($29/mo), Ultra ($69/mo)
-5. **Configure Features** (match these identifiers):
+1. Acesse [Clerk Dashboard](https://clerk.com)
+2. Crie uma nova aplicação
+3. Copie suas chaves publishable e secret para `.env.local`
+4. **Habilite Billing**:
+   - Vá em "Billing" → "Subscriptions"
+   - Crie três planos: `free`, `pro`, `ultra`
+   - Defina preços: Free ($0), Pro ($29/mês), Ultra ($69/mês)
+5. **Configure Features** (use estes identificadores):
    - `summary` (Free, Pro, Ultra)
    - `social_posts` (Pro, Ultra)
    - `titles` (Pro, Ultra)
@@ -347,100 +325,101 @@ OPENAI_API_KEY=sk-proj-...
    - `key_moments` (Ultra only)
    - `speaker_diarization` (Ultra only)
 
-#### 2. Convex Setup (Real-time Database)
+#### 2. Convex (Banco Real-time)
 
-1. Go to [Convex Dashboard](https://convex.dev)
-2. Create a new project
-3. Copy your deployment URL to `.env.local`
-4. The schema will auto-deploy when you run `pnpm convex dev`
+1. Acesse [Convex Dashboard](https://convex.dev)
+2. Crie um novo projeto
+3. Copie a URL de deployment para `.env.local`
+4. O schema será auto-deployed quando rodar `pnpm convex dev`
 
-#### 3. Vercel Blob Setup (File Storage)
+#### 3. Vercel Blob (Storage de Arquivos)
 
-1. Go to [Vercel Dashboard](https://vercel.com)
-2. Create a new project (or use existing)
-3. Go to "Storage" → "Create Database" → "Blob"
-4. Copy the `BLOB_READ_WRITE_TOKEN` to `.env.local`
+1. Acesse [Vercel Dashboard](https://vercel.com)
+2. Crie um novo projeto (ou use existente)
+3. Vá em "Storage" → "Create Database" → "Blob"
+4. Copie o `BLOB_READ_WRITE_TOKEN` para `.env.local`
 
-#### 4. Inngest Setup (Workflow Orchestration)
+#### 4. Inngest (Orquestração de Workflows)
 
-1. Go to [Inngest Dashboard](https://innge.st/sonny-2)
-2. Create a new app
-3. Copy your Event Key and Signing Key to `.env.local`
-4. In development, Inngest will auto-discover your functions
+1. Acesse [Inngest Dashboard](https://inngest.com)
+2. Crie um novo app
+3. Copie Event Key e Signing Key para `.env.local`
+4. **IMPORTANTE**: Use o domínio de **Settings → Domains** do Vercel (não URLs de deployment)
+5. Em desenvolvimento, Inngest auto-descobre suas funções
 
-#### 5. AssemblyAI Setup (Transcription)
+#### 5. AssemblyAI (Transcrição)
 
-1. Go to [AssemblyAI Dashboard](https://www.assemblyai.com/dashboard)
-2. Create an account (free tier available)
-3. Copy your API key to `.env.local`
-4. **Pricing**: ~$0.00025/second (~$0.65 per hour of audio)
+1. Acesse [AssemblyAI Dashboard](https://www.assemblyai.com/dashboard)
+2. Crie uma conta (tier gratuito disponível)
+3. Copie sua API key para `.env.local`
+4. **Preço**: ~$0.00025/segundo (~$0.65 por hora de áudio)
 
-#### 6. OpenAI Setup (AI Content Generation)
+#### 6. OpenAI (Geração de Conteúdo IA)
 
-1. Go to [OpenAI Platform](https://platform.openai.com)
-2. Create an API key
-3. Add credits to your account (pay-as-you-go)
-4. Copy your API key to `.env.local`
-5. **Model Used**: GPT-4 (~$0.10 per podcast episode)
-
----
-
-### First Time Setup Checklist
-
-Before uploading your first podcast, verify:
-
-- [ ] All environment variables are set in `.env.local`
-- [ ] Convex database is running (`pnpm convex dev`)
-- [ ] Clerk application is configured with billing plans
-- [ ] Inngest is connected (check logs when you start dev server)
-- [ ] You can access the app at `http://localhost:3000`
-- [ ] Test upload with a small audio file (under 10MB)
+1. Acesse [OpenAI Platform](https://platform.openai.com)
+2. Crie uma API key
+3. Adicione créditos à sua conta (pay-as-you-go)
+4. Copie sua API key para `.env.local`
+5. **Modelo Usado**: GPT-4 (~$0.10 por episódio de podcast)
 
 ---
 
-## 📊 Database Schema Overview
+### Checklist Primeira Configuração
 
-### Main Model: `projects` Table
+Antes de fazer upload do primeiro podcast, verifique:
 
-The entire application revolves around a single `projects` table in Convex. This denormalized structure allows for atomic updates and real-time reactivity.
+- [ ] Todas variáveis de ambiente configuradas no `.env.local`
+- [ ] Banco Convex rodando (`pnpm convex dev`)
+- [ ] Aplicação Clerk configurada com planos de billing
+- [ ] Inngest conectado (verifique logs ao iniciar dev server)
+- [ ] Você consegue acessar o app em `http://localhost:3000`
+- [ ] Teste upload com arquivo pequeno (menos de 10MB)
 
-**Key Fields:**
+---
 
-| Field | Type | Description |
-|-------|------|-------------|
-| `userId` | string | Clerk user ID (links project to user) |
-| `inputUrl` | string | Vercel Blob URL for uploaded file |
-| `status` | enum | `uploaded` → `processing` → `completed` or `failed` |
-| `jobStatus` | object | Granular status for `transcription` and `contentGeneration` |
-| `transcript` | object | Full transcript with segments, speakers, chapters |
-| `summary` | object | AI-generated summary with bullets, insights, TLDR |
-| `socialPosts` | object | Platform-specific posts (Twitter, LinkedIn, etc.) |
-| `titles` | object | Title suggestions (YouTube, podcast, SEO) |
-| `hashtags` | object | Platform-specific hashtag recommendations |
-| `youtubeTimestamps` | array | Chapter markers for YouTube descriptions |
-| `keyMoments` | array | Viral clip opportunities with timestamps |
+## 📊 Visão Geral do Schema
 
-**Design Decisions:**
+### Modelo Principal: Tabela `projects`
 
-- **Denormalized structure** - All data in one document for atomic updates
-- **Optional fields** - Allow progressive population as Inngest jobs complete
-- **Indexes** - Optimize queries by user, status, and creation date
-- **Real-time reactivity** - Convex subscriptions trigger UI updates automatically
+Toda a aplicação gira em torno de uma única tabela `projects` no Convex. Esta estrutura denormalizada permite atualizações atômicas e reatividade em tempo real.
+
+**Campos Principais:**
+
+| Campo | Tipo | Descrição |
+|-------|------|-----------|
+| `userId` | string | Clerk user ID (vincula projeto ao usuário) |
+| `inputUrl` | string | URL Vercel Blob do arquivo uploaded |
+| `status` | enum | `uploaded` → `processing` → `completed` ou `failed` |
+| `jobStatus` | object | Status granular para `transcription` e `contentGeneration` |
+| `transcript` | object | Transcrição completa com segmentos, speakers, capítulos |
+| `summary` | object | Resumo gerado por IA com bullets, insights, TLDR |
+| `socialPosts` | object | Posts específicos por plataforma (Twitter, LinkedIn, etc.) |
+| `titles` | object | Sugestões de títulos (YouTube, podcast, SEO) |
+| `hashtags` | object | Recomendações de hashtags por plataforma |
+| `youtubeTimestamps` | array | Marcadores de capítulo para descrições YouTube |
+| `keyMoments` | array | Oportunidades de clips virais com timestamps |
+
+**Decisões de Design:**
+
+- **Estrutura denormalizada** - Todos dados em um documento para atualizações atômicas
+- **Campos opcionais** - Permitem população progressiva conforme jobs Inngest completam
+- **Indexes** - Otimizam queries por usuário, status e data de criação
+- **Reatividade real-time** - Subscriptions Convex disparam atualizações de UI automaticamente
 
 **Indexes:**
 
-- `by_user` - List all projects for a user
-- `by_status` - Filter by processing status
-- `by_user_and_status` - User's active/completed projects
-- `by_created_at` - Sort by newest first
+- `by_user` - Lista todos projetos de um usuário
+- `by_status` - Filtra por status de processamento
+- `by_user_and_status` - Projetos ativos/completos do usuário
+- `by_created_at` - Ordena por mais recente
 
 ---
 
-## 🚀 Deployment
+## 🚀 Deploy
 
-### Vercel Deployment (Recommended)
+### Deploy na Vercel (Recomendado)
 
-1. **Push your code to GitHub**
+1. **Push seu código para GitHub**
 
 ```bash
 git add .
@@ -448,312 +427,312 @@ git commit -m "Initial commit"
 git push origin main
 ```
 
-2. **Import to Vercel**
+2. **Importe para Vercel**
 
-- Go to [Vercel Dashboard](https://vercel.com)
-- Click "Import Project"
-- Select your GitHub repository
-- Vercel will auto-detect Next.js
+- Acesse [Vercel Dashboard](https://vercel.com)
+- Clique "Import Project"
+- Selecione seu repositório GitHub
+- Vercel auto-detecta Next.js
 
-3. **Add environment variables**
+3. **Adicione variáveis de ambiente**
 
-In Vercel dashboard → Settings → Environment Variables, add all variables from your `.env.local`
+No dashboard Vercel → Settings → Environment Variables, adicione todas variáveis do seu `.env.local`
 
 4. **Deploy**
 
-Vercel will automatically deploy on every push to `main`
+Vercel faz deploy automaticamente a cada push para `main`
 
-5. **Configure custom domain** (optional)
+5. **Configure domínio customizado** (opcional)
 
-Settings → Domains → Add your domain
+Settings → Domains → Adicione seu domínio
 
 ---
 
-### CLI Deployment
+### Deploy via CLI
 
 ```bash
 npx vercel --prod
 ```
 
-Follow the prompts to deploy.
+Siga os prompts para fazer deploy.
 
 ---
 
-### Post-Deployment Checklist
+### Checklist Pós-Deploy
 
-After deploying to production:
+Após fazer deploy em produção:
 
-- [ ] All environment variables set in Vercel dashboard
-- [ ] Inngest production environment configured (separate from dev)
-- [ ] Clerk production instance connected
-- [ ] Update `NEXT_PUBLIC_APP_URL` to your production URL
-- [ ] Test upload on production with a small file
-- [ ] Monitor Inngest dashboard for workflow errors
-- [ ] Check Vercel logs for any runtime errors
-
----
-
-### Monitoring & Observability
-
-Keep an eye on these dashboards:
-
-- **Inngest Dashboard** - Workflow execution logs, retry attempts, failures
-- **Convex Dashboard** - Database queries, performance metrics, real-time connections
-- **Vercel Analytics** - Traffic, page views, edge function performance
-- **Clerk Dashboard** - User signups, active subscriptions, billing events
+- [ ] Todas variáveis de ambiente configuradas no dashboard Vercel
+- [ ] Ambiente de produção do Inngest configurado (separado do dev)
+- [ ] Instância de produção do Clerk conectada
+- [ ] Atualizar `NEXT_PUBLIC_APP_URL` para sua URL de produção
+- [ ] Testar upload em produção com arquivo pequeno
+- [ ] Monitorar dashboard Inngest para erros de workflow
+- [ ] Verificar logs Vercel para erros de runtime
 
 ---
 
-## 🐛 Common Issues & Solutions
+### Monitoramento & Observabilidade
 
-### Development Issues
+Fique de olho nestes dashboards:
 
-#### Error: Convex not connected
+- **Inngest Dashboard** - Logs de execução, tentativas de retry, falhas
+- **Convex Dashboard** - Queries de banco, métricas de performance, conexões real-time
+- **Vercel Analytics** - Tráfego, page views, performance de edge functions
+- **Clerk Dashboard** - Signups de usuários, assinaturas ativas, eventos de billing
 
-**Problem:** Can't connect to Convex database
+---
 
-**Solution:**
+## 🐛 Problemas Comuns & Soluções
+
+### Problemas de Desenvolvimento
+
+#### Erro: Convex não conecta
+
+**Problema:** Não consegue conectar ao banco Convex
+
+**Solução:**
 ```bash
-# Make sure Convex dev server is running in a separate terminal
+# Certifique-se que o Convex dev server está rodando em terminal separado
 pnpm convex dev
 ```
 
-#### Error: File upload fails
+#### Erro: Upload de arquivo falha
 
-**Problem:** Upload returns 400 or 500 error
+**Problema:** Upload retorna erro 400 ou 500
 
-**Solution:**
-- Check Vercel Blob is enabled in your project settings
-- Verify `BLOB_READ_WRITE_TOKEN` is set correctly
-- Check browser console for CORS errors
+**Solução:**
+- Verifique se Vercel Blob está habilitado nas configurações do projeto
+- Confirme que `BLOB_READ_WRITE_TOKEN` está correto
+- Verifique console do browser para erros de CORS
 
-#### Error: Inngest not triggering
+#### Erro: Inngest não dispara
 
-**Problem:** File uploads but processing never starts
+**Problema:** Arquivo faz upload mas processamento nunca inicia
 
-**Solution:**
-- Verify `INNGEST_EVENT_KEY` and `INNGEST_SIGNING_KEY` in `.env.local`
-- Check Inngest dev server is connected (look for logs in terminal)
-- Ensure `/api/inngest` route is accessible
-
----
-
-### Database Issues
-
-#### Projects not appearing
-
-**Problem:** User uploads file but can't see it in dashboard
-
-**Solution:**
-- Check Clerk `userId` matches project `userId` in database
-- Verify Convex provider wraps your app in `app/layout.tsx`
-- Check browser console for Convex connection errors
-
-#### Real-time updates not working
-
-**Problem:** Dashboard doesn't update automatically during processing
-
-**Solution:**
-- Ensure `ConvexProvider` wraps your app
-- Verify you're using `useQuery` (not `fetchQuery`) for reactive data
-- Check Convex dashboard for connection issues
+**Solução:**
+- Verifique `INNGEST_EVENT_KEY` e `INNGEST_SIGNING_KEY` no `.env.local`
+- Confirme que Inngest dev server está conectado (veja logs no terminal)
+- Certifique-se que rota `/api/inngest` está acessível
+- **IMPORTANTE**: Use o domínio de **Settings → Domains** do Vercel (não URLs de deployment)
 
 ---
 
-### Authentication Issues
+### Problemas de Banco de Dados
 
-#### Clerk redirect loops
+#### Projetos não aparecem
 
-**Problem:** Stuck in infinite redirect after sign in
+**Problema:** Usuário faz upload mas não vê no dashboard
 
-**Solution:**
-- Verify `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` is set correctly
-- Check Clerk dashboard for correct redirect URLs
-- Clear browser cookies and try again
+**Solução:**
+- Verifique se Clerk `userId` corresponde ao `userId` do projeto no banco
+- Confirme que Convex provider envolve seu app em `app/layout.tsx`
+- Verifique console do browser para erros de conexão Convex
 
-#### Billing not working
+#### Atualizações real-time não funcionam
 
-**Problem:** Users can't upgrade or plan limits not enforced
+**Problema:** Dashboard não atualiza automaticamente durante processamento
 
-**Solution:**
-- Configure plans in Clerk dashboard with correct identifiers: `free`, `pro`, `ultra`
-- Ensure feature identifiers match `tier-config.ts`
-- Check Clerk webhook configuration for subscription events
-
----
-
-### Processing Issues
-
-#### AI generation stuck
-
-**Problem:** Project stuck in "processing" status
-
-**Solution:**
-- Check Inngest dashboard for error logs
-- Verify `OPENAI_API_KEY` is valid and has credits
-- Check OpenAI API status page for outages
-
-#### Transcription fails
-
-**Problem:** Transcription step fails immediately
-
-**Solution:**
-- Verify `ASSEMBLYAI_API_KEY` is valid
-- Check file format is supported (MP3, MP4, WAV, etc.)
-- Ensure file URL is publicly accessible
-- Check AssemblyAI dashboard for quota limits
-
-#### Plan features not gating
-
-**Problem:** Free users see Pro/Ultra features
-
-**Solution:**
-- Verify Clerk plan configuration matches `tier-config.ts`
-- Check plan detection logic in `lib/tier-utils.ts`
-- Ensure `has` function is called correctly in API routes
+**Solução:**
+- Certifique-se que `ConvexProvider` envolve seu app
+- Confirme que está usando `useQuery` (não `fetchQuery`) para dados reativos
+- Verifique dashboard Convex para problemas de conexão
 
 ---
 
-## 🏆 Take It Further - Challenge Time!
+### Problemas de Autenticação
 
-Want to level up this project? Here are some advanced features you can build:
+#### Loops de redirect Clerk
 
-### Advanced Features to Build
+**Problema:** Preso em redirect infinito após sign in
 
-- **📄 Export to PDF/Google Doc** - Generate beautiful PDF reports with all content
-- **📅 Social Media Scheduling** - Integration with Buffer or Hootsuite for auto-posting
-- **🌍 Multi-language Support** - Transcribe and translate to 10+ languages
-- **🎨 Custom AI Tone Presets** - Let users define brand voice for AI generation
-- **📦 Batch Processing** - Upload 10 episodes, process all overnight
-- **🎥 Video Clip Generation** - Automatically create video clips from key moments
-- **📊 Analytics Dashboard** - Track which content performs best across platforms
+**Solução:**
+- Verifique se `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` está correto
+- Confira URLs de redirect corretas no dashboard Clerk
+- Limpe cookies do browser e tente novamente
 
-### AI Improvements
+#### Billing não funciona
 
-- **🧠 Fine-tuning** - Train GPT on user's specific podcast style
-- **💬 Custom Prompts** - Let users write their own prompt templates per platform
-- **😊 Sentiment Analysis** - Automatically tag moments as funny, insightful, controversial
-- **A/B Testing** - Generate multiple title variations and track which performs best
-- **🔍 Content Recommendations** - "Based on this episode, you should talk about..."
+**Problema:** Usuários não conseguem fazer upgrade ou limites não são aplicados
 
-### Infrastructure & Scaling
-
-- **☁️ Cloudflare R2** - Migrate from Vercel Blob for cheaper long-term storage
-- **⚡ Redis Caching** - Cache frequently accessed projects and transcripts
-- **🪝 Webhook Notifications** - Alert users via email/SMS when processing completes
-- **🔧 Separate Worker Service** - Move heavy processing to dedicated infrastructure
-- **📊 Usage Analytics** - Track costs per user for better pricing optimization
-
-### Monetization Features
-
-- **👥 Team Plans** - Multi-user access with role-based permissions
-- **🏷️ White-label Option** - Let agencies rebrand the app for their clients
-- **🔌 API Access** - Enterprise tier with REST API for automation
-- **💳 Credits System** - Pay-per-use model instead of subscriptions
-- **🎁 Referral Program** - Reward users for bringing in new customers
-
-**Pick one feature and build it!** Then submit a PR or share in the PAPAFAM Discord. I'd love to see what you create.
+**Solução:**
+- Configure planos no dashboard Clerk com identificadores corretos: `free`, `pro`, `ultra`
+- Certifique-se que identificadores de features correspondem ao `tier-config.ts`
+- Verifique configuração de webhook Clerk para eventos de subscription
 
 ---
 
-## 📄 License
+### Problemas de Processamento
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+#### Geração IA travada
 
-### You CAN:
+**Problema:** Projeto travado em status "processing"
 
-- ✅ Use this code for **personal learning** and education
-- ✅ Modify and adapt the code for your own projects
-- ✅ Share the code with others (with attribution)
-- ✅ Use it in your **portfolio** (non-commercial showcase)
-- ✅ Fork, clone, and experiment with the codebase
+**Solução:**
+- Verifique dashboard Inngest para logs de erro
+- Confirme que `OPENAI_API_KEY` é válida e tem créditos
+- Verifique página de status da API OpenAI para outages
 
-### You CANNOT:
+#### Transcrição falha
 
-- ❌ Use this code for **commercial purposes** (selling, SaaS, client work)
-- ❌ Sell this application or derivatives of it
-- ❌ Remove attribution to the original author
-- ❌ Relicense the code under different terms
+**Problema:** Step de transcrição falha imediatamente
 
-### For Commercial Licensing
+**Solução:**
+- Verifique se `ASSEMBLYAI_API_KEY` é válida
+- Confirme que formato do arquivo é suportado (MP3, MP4, WAV, etc.)
+- Certifique-se que URL do arquivo é publicamente acessível
+- Verifique dashboard AssemblyAI para limites de quota
 
-Interested in using this project commercially? I offer flexible licensing options:
+#### Features de plano não aplicam
 
-- **Startup License** - For early-stage companies (<$100k revenue)
-- **Enterprise License** - For established businesses
-- **White-label License** - Full customization rights for agencies
+**Problema:** Usuários free veem features Pro/Ultra
 
-**Contact me:** Open an issue on GitHub or reach out through the PAPAFAM team email at team@papareact.com
-
-Full license text: [LICENSE.md](./LICENSE.md)
+**Solução:**
+- Verifique se configuração de planos Clerk corresponde ao `tier-config.ts`
+- Confira lógica de detecção de plano em `lib/tier-utils.ts`
+- Certifique-se que função `has` é chamada corretamente nas API routes
 
 ---
 
-## 📚 Quick Reference
+## 🏆 Próximos Passos - Desafios!
 
-### Useful Commands
+Quer evoluir este projeto? Aqui estão algumas features avançadas que você pode construir:
+
+### Features Avançadas
+
+- **📄 Exportar para PDF/Google Doc** - Gerar relatórios PDF bonitos com todo conteúdo
+- **📅 Agendamento de Redes Sociais** - Integração com Buffer ou Hootsuite para auto-posting
+- **🌍 Suporte Multi-idioma** - Transcrever e traduzir para 10+ idiomas
+- **🎨 Presets de Tom de IA** - Permitir usuários definir voz da marca para geração IA
+- **📦 Processamento em Lote** - Upload de 10 episódios, processar todos durante a noite
+- **🎥 Geração de Video Clips** - Criar automaticamente video clips dos momentos-chave
+- **📊 Dashboard de Analytics** - Rastrear qual conteúdo performa melhor em cada plataforma
+
+### Melhorias de IA
+
+- **🧠 Fine-tuning** - Treinar GPT no estilo específico do podcast do usuário
+- **💬 Prompts Customizados** - Permitir usuários escreverem seus próprios templates por plataforma
+- **😊 Análise de Sentimento** - Tagar automaticamente momentos como engraçados, insightful, controversos
+- **A/B Testing** - Gerar múltiplas variações de título e rastrear qual performa melhor
+- **🔍 Recomendações de Conteúdo** - "Baseado neste episódio, você deveria falar sobre..."
+
+### Infraestrutura & Escala
+
+- **☁️ Cloudflare R2** - Migrar do Vercel Blob para storage mais barato a longo prazo
+- **⚡ Redis Caching** - Cache de projetos e transcrições frequentemente acessados
+- **🪝 Notificações Webhook** - Alertar usuários via email/SMS quando processamento completa
+- **🔧 Worker Service Separado** - Mover processamento pesado para infraestrutura dedicada
+- **📊 Analytics de Uso** - Rastrear custos por usuário para otimização de pricing
+
+### Features de Monetização
+
+- **👥 Planos de Time** - Acesso multi-usuário com permissões baseadas em roles
+- **🏷️ Opção White-label** - Permitir agências rebrandar o app para seus clientes
+- **🔌 Acesso API** - Tier enterprise com REST API para automação
+- **💳 Sistema de Créditos** - Modelo pay-per-use ao invés de assinaturas
+- **🎁 Programa de Referral** - Recompensar usuários por trazer novos clientes
+
+**Escolha uma feature e construa!** Depois compartilhe no programa SaaS AI da Ciência dos Dados.
+
+---
+
+## 📄 Licença
+
+Este projeto é licenciado sob a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+### Você PODE:
+
+- ✅ Usar este código para **aprendizado pessoal** e educação
+- ✅ Modificar e adaptar o código para seus próprios projetos
+- ✅ Compartilhar o código com outros (com atribuição)
+- ✅ Usar em seu **portfólio** (showcase não-comercial)
+- ✅ Fork, clone e experimentar com o codebase
+
+### Você NÃO PODE:
+
+- ❌ Usar este código para **propósitos comerciais** (venda, SaaS, trabalho para clientes)
+- ❌ Vender esta aplicação ou derivados dela
+- ❌ Remover atribuição ao autor original
+- ❌ Relicenciar o código sob termos diferentes
+
+### Para Licenciamento Comercial
+
+Interessado em usar este projeto comercialmente? Entre em contato:
+
+- **Licença Startup** - Para empresas em estágio inicial
+- **Licença Enterprise** - Para empresas estabelecidas
+- **Licença White-label** - Direitos completos de customização para agências
+
+**Contato:** Abra uma issue no GitHub ou entre em contato via [cienciadosdados.com](https://cienciadosdados.com)
+
+Texto completo da licença: [LICENSE.md](./LICENSE.md)
+
+---
+
+## 📚 Referência Rápida
+
+### Comandos Úteis
 
 ```bash
-# Development
-pnpm dev          # Start Next.js dev server + Convex watch
-pnpm build        # Build for production
-pnpm start        # Start production server
-pnpm lint         # Run Biome linter
-pnpm format       # Format code with Biome
+# Desenvolvimento
+pnpm dev          # Inicia Next.js dev server + Convex watch
+pnpm build        # Build para produção
+pnpm start        # Inicia servidor de produção
+pnpm lint         # Roda Biome linter
+pnpm format       # Formata código com Biome
 
 # Convex
-pnpm convex dev   # Start Convex development database
-pnpm convex deploy # Deploy Convex to production
+pnpm convex dev   # Inicia banco Convex de desenvolvimento
+pnpm convex deploy # Deploy Convex para produção
 
 # Deployment
-npx vercel        # Deploy to Vercel (preview)
-npx vercel --prod # Deploy to production
+npx vercel        # Deploy para Vercel (preview)
+npx vercel --prod # Deploy para produção
 ```
 
 ---
 
+### Conceitos Importantes
 
-### Important Concepts
+**Feature Gating por Plano**
 
-**Plan-based Feature Gating**
+Features são habilitadas baseado no tier de assinatura Clerk do usuário:
+- **Free**: Apenas Summary (3 projetos lifetime)
+- **Pro**: + Social posts, titles, hashtags (30 projetos/mês)
+- **Ultra**: + YouTube timestamps, key moments, full transcript (ilimitado)
 
-Features are enabled based on the user's Clerk subscription tier:
-- **Free**: Summary only (3 projects lifetime)
-- **Pro**: + Social posts, titles, hashtags (30 projects/month)
-- **Ultra**: + YouTube timestamps, key moments, full transcript (unlimited)
+**Processamento Paralelo de IA**
 
-**Parallel AI Processing**
+Em vez de rodar tarefas de geração IA sequencialmente (lento), Inngest roda 6 jobs em paralelo usando `Promise.allSettled`. Isso reduz tempo de processamento de ~5 minutos para ~60 segundos.
 
-Instead of running AI generation tasks sequentially (slow), Inngest runs 6 jobs in parallel using `Promise.allSettled`. This reduces processing time from ~5 minutes to ~60 seconds.
+**Atualizações Real-time**
 
-**Real-time Updates**
+Subscriptions Convex (`useQuery`) re-renderizam componentes automaticamente quando dados do banco mudam. Sem polling, sem refetch manual. Conforme Inngest atualiza status do projeto, UI atualiza instantaneamente.
 
-Convex subscriptions (`useQuery`) automatically re-render components when database data changes. No polling, no manual refetching. As Inngest updates the project status, the UI updates instantly.
+**Execução Durável**
 
-**Durable Execution**
-
-Inngest provides automatic retry logic. If OpenAI times out or AssemblyAI fails, the step retries with exponential backoff. Your users never lose work.
-
-
-
-## 🙏 Acknowledgments
-
-Built with incredible tools from:
-- [Clerk](https://go.clerk.com/sonny) - Authentication & Billing
-- [Inngest](https://innge.st/sonny-2) - Workflow Orchestration
-- [Convex](https://convex.dev) - Real-time Database
-- [Vercel](https://vercel.com) - Deployment & Storage
-- [AssemblyAI](https://www.assemblyai.com) - Audio Intelligence
-- [OpenAI](https://platform.openai.com) - AI Content Generation
+Inngest provê lógica de retry automático. Se OpenAI der timeout ou AssemblyAI falhar, o step faz retry com backoff exponencial. Seus usuários nunca perdem trabalho.
 
 ---
 
-## 💬 Questions or Issues?
+## 🙏 Agradecimentos
 
-- **Found a bug?** Open an issue on GitHub
-- **Need help?** Join the [PAPAFAM Discord](https://www.papareact.com/course)
-- **Want to contribute?** PRs welcome (see LICENSE for terms)
+Construído com ferramentas incríveis de:
+- [Clerk](https://clerk.com) - Autenticação & Billing
+- [Inngest](https://inngest.com) - Orquestração de Workflows
+- [Convex](https://convex.dev) - Banco Real-time
+- [Vercel](https://vercel.com) - Deploy & Storage
+- [AssemblyAI](https://www.assemblyai.com) - Inteligência de Áudio
+- [OpenAI](https://platform.openai.com) - Geração de Conteúdo IA
 
 ---
 
-**Built with ❤️ for the PAPAFAM community**
+## 💬 Dúvidas ou Problemas?
+
+- **Encontrou um bug?** Abra uma issue no GitHub
+- **Precisa de ajuda?** Entre em contato via [cienciadosdados.com](https://cienciadosdados.com)
+- **Quer contribuir?** PRs são bem-vindos (veja LICENSE para termos)
+
+---
+
+**Construído com ❤️ para a comunidade Ciência dos Dados - Programa SaaS AI Semana 4**
